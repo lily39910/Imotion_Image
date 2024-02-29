@@ -104,6 +104,8 @@ st.session_state.api_key = ''
 $ streamlit run stream.py
 ```
 
+### streamlit 모식도
+
 ![image](https://github.com/lily39910/Imotion_Image/assets/92513469/b746f3fa-7178-4371-b308-ab8f1c333f5f)
 
 ![image](https://github.com/lily39910/Imotion_Image/assets/92513469/8f0382cb-fb48-44fc-9764-ade48d31eaad)
